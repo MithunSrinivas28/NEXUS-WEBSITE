@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Overview from "./panels/Overview";
-import RateLimiter from "./panels/RateLimiter";
+import RateLimiter from "./panels/Ratelimiter";
 import JWTAuth from "./panels/JWTAuth";
 import LoadBalancer from "./panels/LoadBalancer";
 import CircuitBreaker from "./panels/CircuitBreaker";
